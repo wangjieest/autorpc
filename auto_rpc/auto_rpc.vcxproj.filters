@@ -27,12 +27,6 @@
     <ClInclude Include="rpc_enpoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ipc_enpoint.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="SRDelegate.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

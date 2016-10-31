@@ -81,9 +81,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ipc_enpoint.h" />
     <ClInclude Include="rpc_enpoint.h" />
-    <ClInclude Include="SRDelegate.hpp" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
